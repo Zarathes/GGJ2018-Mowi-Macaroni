@@ -74,3 +74,5 @@ Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 MayaProject/scenes/incrementalSave/
+WindowsNoEditor/Manifest_NonUFSFiles_Win32.txt
+WindowsNoEditor/GGJ2018/Content/Paks/GGJ2018-WindowsNoEditor.pak
